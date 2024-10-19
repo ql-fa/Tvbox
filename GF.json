@@ -29,8 +29,8 @@
 
 {"key":"爱奇异","name":"云瑾┃爱奇异","type":3,"ua": "okhttp/3.15","api":"https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/drpy2.js","ext":"https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/爱奇艺.js"},
 	{"key":"优酷视频","name":"云瑾┃优酷","type":3,"api":"https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/JS/drpy.min.js","ext":"https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/JS/优酷视频.js"},
-{"key":"腾讯","name":"云瑾┃疼讯","type":3,"ua": "okhttp/3.15","api":"https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/drpy2.js","ext":"https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/腾讯视频.js"},
-{"key":"芒果","name":"云瑾┃芒果","type":3,"ua": "okhttp/3.15","api":"https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/drpy2.js","ext":"https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/芒果视频.js"},
+{"key":"腾讯","name":"云瑾┃疼讯","type":3,"ua": "okhttp/3.15","api":"https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/js/drpy2.js","ext":"https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/js/腾讯视频.js"},
+{"key":"芒果","name":"云瑾┃芒果","type":3,"ua": "okhttp/3.15","api":"https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/js/drpy2.js","ext":"https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/js/芒果视频.js"},
 {"key":"搜狗","name":"云瑾┃嗖狗","type":3,"ua": "okhttp/3.15","api":"https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/drpy2.js","ext":"https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/搜狗视频.js"},
 
     {"key":"云瑾┃36视","name":"云瑾┃360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
@@ -49,7 +49,6 @@
                 "🌊七米蓝": "https://al.chirmyram.com",
                 "🐉神族九帝": "https://alist.shenzjd.com",
                 "☃️姬路白雪": "https://pan.jlbx.xyz",
-                "☃自建": "http://hy.exvugx.cn",
                 "✨星梦": "https://pan.bashroot.top"
             }
         },
@@ -133,16 +132,6 @@
             "ext": "maHR0cHM6Ly9jenp5LnRvcC8="
         },
         {
-            "key": "1905影视",
-            "name": "云瑾┃1905影视",
-            "type": 3,
-            "api": "csp_Web1905",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者.zip"
-        },
-        {
             "key": "New6v",
             "name": "云瑾┃6V（慢）",
             "type": 3,
@@ -195,9 +184,6 @@
             "filterable": 1,
             "ext": "./XBPQ/Bili.json"
         },
-      {"key":"csp_Sp_音乐演唱会","name":"云瑾┃️哔哩合集","type":3,"api":"csp_AmuBili","searchable":1,"quickSearch":0,"filterable": 1,"ext": "./bilibili/%E6%BC%94%E5%94%B1%E4%BC%9A.js","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者.zip"},
- {"key":"csp_Sp_哗哩合集","name":"云瑾┃️哔哩合集2","type":3,"api":"csp_AmuBili","searchable":1,"quickSearch":0,"filterable": 0,"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/6/main/js/哔哩合集.php","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者.zip"},
- 
  {"key":"cctv","name":"云瑾┃央视大全","type":3,"api":"csp_CCTV","jar": "https://gh.con.sh/https://raw.githubusercontent.com/HeChengChaXiu/tvbox/main/hccx/HeChengChaXiu.jar","searchable":0,"filterable":0,"ext":"./JSON/央视频道/央视大全.json"},
  
 {"key":"央视经典","name":"云瑾┃央视经典","type":3,"api":"csp_Bili","jar": "https://gh.con.sh/https://raw.githubusercontent.com/HeChengChaXiu/tvbox/main/hccx/HeChengChaXiu.jar","searchable":0,"quickSearch":1,"filterable":1,"ext":"./JSON/央视频道/央视经典.json"},
@@ -245,16 +231,6 @@
             "ext": "http://47.99.102.252/drpy_dzlive/drpy_js/啊哈DJ[听].js"
         },
 
-    {
-      "key": "斗鱼js",
-      "name": "云瑾┃斗鱼直播",
-      "type": 3,
-      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "playerType": 1,
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/斗鱼直播.js"
-    },
         {
             "key": "drpy_js_斗鱼直播",
             "name": "云瑾┃斗鱼直播 ",
