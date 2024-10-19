@@ -1,4 +1,4 @@
-{"spider":"./spider.jar;md5;2db1bd07c42c25796659053e9c370577",
+{"spider":"https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/spider.jar;md5;2db1bd07c42c25796659053e9c370577",
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
 	[
@@ -11,24 +11,24 @@
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "http://47.108.190.141/hipy/drpy_js/直播转点播[合].js?type=url&params=http://47.108.190.141/hipy/json/live2cms.json"
+            "ext": "http://47.108.190.141/hipy/drpy_js/直播转点播[合].js?type=url&params=https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/zhibo/直播转点播.json"
         },
         {
             "key": "csp_yydflive-2",
             "name": "云瑾┃电视直播",
             "type": 3,
             "playerType": 1,
-            "jar": "./zhibo/zb.jar;md5;bf1b124a45435a1be4f54d148280a749",
+            "jar": "https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/zhibo/zb.jar;md5;bf1b124a45435a1be4f54d148280a749",
             "api": "csp_zb",
             "searchable": 0,
             "changeable": 0,
-            "ext": "./zhibo/live.json"
+            "ext": "https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/zhibo/live.json"
         },
 
 {"key": "hipy_js_腾云驾雾[官]","name": "云瑾┃腾讯","type": 3,"api": "http://193.134.211.100:1888/tv/ijia/4kk/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"changeable": 0,"ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/tx.js"},
 
 {"key":"爱奇异","name":"云瑾┃爱奇异","type":3,"ua": "okhttp/3.15","api":"https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/drpy2.js","ext":"https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/爱奇艺.js"},
-	{"key":"优酷视频","name":"云瑾┃优酷","type":3,"api":"./JS/drpy.min.js","ext":"./JS/优酷视频.js"},
+	{"key":"优酷视频","name":"云瑾┃优酷","type":3,"api":"https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/JS/drpy.min.js","ext":"https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/JS/优酷视频.js"},
 {"key":"腾讯","name":"云瑾┃疼讯","type":3,"ua": "okhttp/3.15","api":"https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/drpy2.js","ext":"https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/腾讯视频.js"},
 {"key":"芒果","name":"云瑾┃芒果","type":3,"ua": "okhttp/3.15","api":"https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/drpy2.js","ext":"https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/芒果视频.js"},
 {"key":"搜狗","name":"云瑾┃嗖狗","type":3,"ua": "okhttp/3.15","api":"https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/drpy2.js","ext":"https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/搜狗视频.js"},
@@ -40,7 +40,7 @@
             "name": "Alist(SP)",
             "type": 3,
             "api": "csp_Alist",
-           "jar": "./Jar/top98_1.jar",
+           "jar": "https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/Jar/top98_1.jar",
             "searchable": 0,
             "playerType": 2,
             "quickSearch": 0,
@@ -58,7 +58,7 @@
             "name": "南瓜┃App",
             "type": 3,
             "api": "csp_NanGua",
-           "jar": "./Jar/fix24108.jar;md5;12f37c8466d7133438b2560d8e1b190e",
+           "jar": "https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/Jar/fix24108.jar;md5;12f37c8466d7133438b2560d8e1b190e",
             "searchable": 1,
             "quickSearch": 1,
             "playerType": 2,
@@ -71,7 +71,7 @@
             "name": "热播┃App",
             "type": 3,
             "api": "csp_Rebot",
-           "jar": "./Jar/fix24108.jar;md5;12f37c8466d7133438b2560d8e1b190e",
+           "jar": "https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/Jar/fix24108.jar;md5;12f37c8466d7133438b2560d8e1b190e",
             "playerType": 1,
             "ext": "caHR0cDovL3YucmJvdHYuY24="
         },
@@ -80,7 +80,7 @@
             "name": "天天┃App",
             "type": 3,
             "api": "csp_TTian",
-           "jar": "./Jar/fix24108.jar;md5;12f37c8466d7133438b2560d8e1b190e",
+           "jar": "https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/Jar/fix24108.jar;md5;12f37c8466d7133438b2560d8e1b190e",
             "playerType": 1,
             "ext": "baHR0cDovL29wLnlzZHFqcy5jbg=="
         },
@@ -89,7 +89,7 @@
             "name": "云瑾┃蚂蚁影库",
             "type": 3,
             "api": "csp_XBPQ",
-           "jar": "./Jar/xyqxbpq.jar",
+           "jar": "https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/Jar/xyqxbpq.jar",
             "playUrl": "json:http://121.62.61.51:6888/api/?key=3NNwzhuSM8Lm0qFDwq&url=",
             "ext": {
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5",
@@ -101,7 +101,7 @@
             "key": "ZXZJ",
             "name": "云瑾┃在线直连",
             "api": "csp_Zxzj",
-           "jar": "./Jar/fix24108.jar;md5;12f37c8466d7133438b2560d8e1b190e",
+           "jar": "https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/Jar/fix24108.jar;md5;12f37c8466d7133438b2560d8e1b190e",
             "type": 3,
             "filterable": 1,
             "quickSearch": 1,
@@ -114,7 +114,7 @@
             "name": "云瑾┃快看直连",
             "type": 3,
             "api": "csp_Kuaikan",
-           "jar": "./Jar/fix24108.jar;md5;12f37c8466d7133438b2560d8e1b190e",
+           "jar": "https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/Jar/fix24108.jar;md5;12f37c8466d7133438b2560d8e1b190e",
             "searchable": 1,
             "playerType": 1,
             "quickSearch": 1,
@@ -125,7 +125,7 @@
             "name": "云瑾┃厂长直连",
             "type": 3,
             "api": "csp_Czsapp",
-           "jar": "./Jar/fix24108.jar;md5;12f37c8466d7133438b2560d8e1b190e",
+           "jar": "https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/Jar/fix24108.jar;md5;12f37c8466d7133438b2560d8e1b190e",
             "searchable": 1,
             "playerType": 1,
             "quickSearch": 1,
@@ -223,7 +223,7 @@
             "name": "云瑾┃酷狗音乐",
             "type": 3,
             "api": "csp_Kugou",
-           "jar": "./MV/pg.jar",
+           "jar": "https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/MV/pg.jar",
             "playerType": 1,
             "searchable": 0,
             "changeable": 0,
