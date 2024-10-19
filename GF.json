@@ -30,7 +30,7 @@
 {"key":"爱奇异","name":"云瑾┃爱奇异","type":3,"ua": "okhttp/3.15","api":"https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/js/drpy2.js","ext":"https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/js/爱奇艺.js"},
 	{"key":"优酷视频","name":"云瑾┃优酷","type":3,"api":"https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/JS/drpy.min.js","ext":"https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/JS/优酷视频.js"},
 {"key":"腾讯","name":"云瑾┃疼讯","type":3,"ua": "okhttp/3.15","api":"https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/js/drpy2.js","ext":"https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/js/腾讯视频.js"},
-{"key":"dr_mgtv","name":"🥭┃芒果(官)","type":3,"api":"https://raw.liucn.cc/box/libs/js/drpy2.min.js","ext":"https://raw.liucn.cc/box/libs/js/百忙无果.js"},
+{"key":"dr_mgtv","name":"🥭┃芒果(官)","type":3,"ua": "okhttp/3.15","api":"https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/js/drpy2.js","ext":"https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/js/芒果.js"},
 {"key":"搜狗","name":"云瑾┃嗖狗","type":3,"ua": "okhttp/3.15","api":"https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/js/drpy2.js","ext":"https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/js/%E6%90%9C%E7%8B%97%E8%A7%86%E9%A2%91.js"},
 
     {"key":"云瑾┃36视","name":"云瑾┃360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
