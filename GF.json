@@ -1,4 +1,4 @@
-{"spider":"https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/spider.jar;md5;2db1bd07c42c25796659053e9c370577",
+{"spider":"https://ghproxy.net/https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/spider.jar;md5;2db1bd07c42c25796659053e9c370577",
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
 	[
@@ -18,7 +18,7 @@
             "name": "云瑾┃电视直播",
             "type": 3,
             "playerType": 1,
-            "jar": "https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/zhibo/zb.jar;md5;bf1b124a45435a1be4f54d148280a749",
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/zhibo/zb.jar;md5;bf1b124a45435a1be4f54d148280a749",
             "api": "csp_zb",
             "searchable": 0,
             "changeable": 0,
@@ -27,11 +27,11 @@
 
 {"key": "hipy_js_腾云驾雾[官]","name": "云瑾┃腾讯","type": 3,"api": "http://193.134.211.100:1888/tv/ijia/4kk/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"changeable": 0,"ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/tx.js"},
 
-{"key":"爱奇异","name":"云瑾┃爱奇异","type":3,"ua": "okhttp/3.15","api":"https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/js/drpy2.js","ext":"https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/js/爱奇艺.js"},
-	{"key":"优酷视频","name":"云瑾┃优酷","type":3,"api":"https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/JS/drpy.min.js","ext":"https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/JS/优酷视频.js"},
-{"key":"腾讯","name":"云瑾┃疼讯","type":3,"ua": "okhttp/3.15","api":"https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/js/drpy2.js","ext":"https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/js/腾讯视频.js"},
-{"key":"dr_mgtv","name":"云瑾┃芒果","type":3,"ua": "okhttp/3.15","api":"https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/js/drpy2.js","ext":"https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/js/芒果.js"},
-{"key":"搜狗","name":"云瑾┃嗖狗","type":3,"ua": "okhttp/3.15","api":"https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/js/drpy2.js","ext":"https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/js/%E6%90%9C%E7%8B%97%E8%A7%86%E9%A2%91.js"},
+{"key":"爱奇异","name":"云瑾┃爱奇异","type":3,"ua": "okhttp/3.15","api":"https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/js/drpy2.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/js/爱奇艺.js"},
+	{"key":"优酷视频","name":"云瑾┃优酷","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/JS/drpy.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/JS/优酷视频.js"},
+{"key":"腾讯","name":"云瑾┃疼讯","type":3,"ua": "okhttp/3.15","api":"https://ghproxy.net/https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/js/drpy2.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/js/腾讯视频.js"},
+{"key":"dr_mgtv","name":"云瑾┃芒果","type":3,"ua": "okhttp/3.15","api":"https://ghproxy.net/https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/js/drpy2.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/js/芒果.js"},
+{"key":"搜狗","name":"云瑾┃嗖狗","type":3,"ua": "okhttp/3.15","api":"https://ghproxy.net/https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/js/drpy2.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/js/%E6%90%9C%E7%8B%97%E8%A7%86%E9%A2%91.js"},
 
     {"key":"云瑾┃36视","name":"云瑾┃360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 
@@ -113,7 +113,7 @@
             "name": "云瑾┃快看直连",
             "type": 3,
             "api": "csp_Kuaikan",
-           "jar": "https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/Jar/fix24108.jar;md5;12f37c8466d7133438b2560d8e1b190e",
+           "jar": "https://ghproxy.net/https://raw.githubusercontent.com/ql-fa/Tvbox/refs/heads/main/Jar/fix24108.jar;md5;12f37c8466d7133438b2560d8e1b190e",
             "searchable": 1,
             "playerType": 1,
             "quickSearch": 1,
